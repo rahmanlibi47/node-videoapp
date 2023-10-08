@@ -42,4 +42,4 @@ Description: Checks the download progress of the most recent download request. I
 
 # Running the Application
 Start the Node.js application with the following command:
-nodemon
+node app.js
